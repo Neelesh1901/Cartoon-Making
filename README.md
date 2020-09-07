@@ -16,3 +16,4 @@ you have to enter your correct name of file that's the most important thing I ha
 - **OpenCV** installed on your machine
     - if you don't know how to install it just write
       **pip install openCV** in your *Bash* or *Terminal* and you are good to go :-)
+- Study about _openCV_ and _Python Applications_  😋
