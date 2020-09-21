@@ -1,4 +1,4 @@
-# Cartoon-Making
+﻿# Cartoon-Making
 
 Personally I'm very fond of cartoons growing up watching cartoons and animes like Naruto, Dragon-Ball Z, Doreamon, Shinchan(personal mood booster ;)) and a lot more.
 
@@ -17,3 +17,7 @@ you have to enter your correct name of file that's the most important thing I ha
     - if you don't know how to install it just write
       **pip install openCV** in your *Bash* or *Terminal* and you are good to go :-)
 - Study about _openCV_ and _Python Applications_  😋
+
+## Credits:
+
+Kudos to all the `OpenCV` team members :)
